@@ -11,7 +11,7 @@ body {
     margin-top: 0em;
     margin-right: 1em;
     font-family: "Playwrite US Trad", cursive;
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
   }
   .logo {
@@ -31,7 +31,7 @@ body {
 
 /*Navigation*/
 .navigation {
-    background-color: #c4ac12;
+    background-color: #149376;
     width: 100%;
     height: 60px;
     line-height: 60px;
@@ -56,7 +56,7 @@ body {
   }
 
   .site-links a:hover, .site-links .active {
-    background-color: #f1de75;
+    background-color: #3fc5a3;
   }
 
 /*Main content*/
@@ -65,7 +65,10 @@ body {
     overflow: scroll;
     background-color: #FFF;
     padding: 2em;
-    margin: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 .mainPagePainting
 {
