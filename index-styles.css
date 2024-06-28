@@ -31,7 +31,7 @@ body {
 
 /*Navigation*/
 .navigation {
-    background-color: #149376;
+    background-color: #20997d;
     width: 100%;
     height: 60px;
     line-height: 60px;
@@ -56,7 +56,7 @@ body {
   }
 
   .site-links a:hover, .site-links .active {
-    background-color: #3fc5a3;
+    background-color: #48c8a8;
   }
 
 /*Main content*/
@@ -65,10 +65,10 @@ body {
     overflow: scroll;
     background-color: #FFF;
     padding: 2em;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 4%;
+    margin-bottom: 4%;
 }
 .mainPagePainting
 {
