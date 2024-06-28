@@ -82,6 +82,9 @@ h1 {font-family: "Playwrite US Trad", cursive;
 
 h2 {
     border-bottom: gold;
+    border-top: none;
+    border-right: none;
+    border-left: none;
     border-width: auto;
     border-style: solid;
 }
