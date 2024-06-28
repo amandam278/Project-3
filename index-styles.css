@@ -1,10 +1,10 @@
 /*Page Wide*/
 body {
-    background-color:#da9fe7;
+    background-color:#61c5b9;
     color: black;
     padding: 5px;
     font-family: "Playfair Display", serif;
-    
+}
 /*Logo and Name*/
 .site-info {
     display: inline-block;
@@ -43,7 +43,6 @@ body {
   }
   .navigation a {
     color: #FFF;
-    font-family: "Playwrite US Trad", cursive;
   }
  
 .site-links {
@@ -61,6 +60,22 @@ body {
   }
 
 /*Main content*/
+.main {
+    text-align: center;
+    overflow: scroll;
+    background-color: #FFF;
+    padding: 2em;
+    margin: 10%;
+}
+.mainPagePainting
+{
+    width: 75%;
+    height: auto;
+}
+
+h1 {font-family: "Playwrite US Trad", cursive;
+    text-align: center;
+}
 
  /*About*/
 
