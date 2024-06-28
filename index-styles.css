@@ -79,7 +79,11 @@ body {
 h1 {font-family: "Playwrite US Trad", cursive;
     text-align: center;
 }
-
+h2 {
+    border-bottom: gold;
+    border-width: auto;
+    border-style: solid;
+}
  /*About*/
 
 /*Contact Page*/
