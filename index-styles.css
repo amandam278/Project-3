@@ -4,7 +4,61 @@ body {
     color: black;
     padding: 5px;
     font-family: "Playfair Display", serif;
+    
+/*Logo and Name*/
+.site-info {
+    display: inline-block;
+    margin-top: 0em;
+    margin-right: 1em;
+    font-family: "Playwrite US Trad", cursive;
+    font-size: 3em;
+    text-align: center;
+  }
+  .logo {
+    background-color: #248969;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 10px;
+    float: left;
+    border-radius: 100%;
+ 
+    line-height: 40px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 9pt;
+  }
+
 /*Navigation*/
+.navigation {
+    background-color: #c4ac12;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+  }
+  .navigation a {
+    color: #FFF;
+    font-family: "Playwrite US Trad", cursive;
+  }
+ 
+.site-links {
+    float: right;
+  }
+  
+  .site-links a {
+    display: inline-block;
+    padding-top: 0em ;
+    padding-right: 1em;
+  }
+
+  .site-links a:hover, .site-links .active {
+    background-color: #f1de75;
+  }
 
 /*Main content*/
 
