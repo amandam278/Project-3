@@ -16,8 +16,8 @@ body {
   }
   .logo {
     background-color: #61c5b9;
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     display: inline-block;
     margin: 10px;
     float: left;
@@ -34,6 +34,10 @@ body {
 .logo:hover {
   border-color: white;
 }
+
+.site-info a:hover, .site-links .active {
+    background-color: #48c8a8;
+  }
 
 /*Navigation*/
 .navigation {
