@@ -29,6 +29,11 @@ body {
     font-size: 9pt;
   }
 
+
+.logo:hover {
+  border-color: white;
+}
+
 /*Navigation*/
 .navigation {
     background-color: #20997d;
@@ -90,6 +95,10 @@ h2 {
     border-style: solid;
 }
  /*About*/
+
+ .amanda-picture {
+float: left;
+ }
 
 /*Contact Page*/
 
