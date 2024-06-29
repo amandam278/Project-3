@@ -78,14 +78,15 @@ body {
 
 h1 {font-family: "Playwrite US Trad", cursive;
     text-align: center;
+    color: gold;
 }
 
 h2 {
     border-bottom: gold;
-    border-top: none;
-    border-right: none;
-    border-left: none;
-    border-width: auto;
+    border-top: white;
+    border-right: white;
+    border-left: white;
+    border-width: white;
     border-style: solid;
 }
  /*About*/
