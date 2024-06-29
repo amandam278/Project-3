@@ -4,8 +4,8 @@ body {
     color: black;
     padding: 5px;
     font-family: "Playfair Display", serif;
-    font-size: 2em;
 }
+
 /*Logo and Name*/
 .site-info {
     display: inline-block;
